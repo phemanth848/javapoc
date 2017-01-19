@@ -1,5 +1,5 @@
 package constructor;
-
+//hello java
 public class defcons{
 		defcons()
 		{
